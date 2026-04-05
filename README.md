@@ -1,8 +1,8 @@
+
 <div align="center">
   
 # Hi there my name is Mahadhevha👋
 
-</div>
 
 Please consider supporting me to fund my projects:  
 <a href="https://buymeacoffee.com/mahadhevha" target="_blank">
@@ -12,30 +12,39 @@ Please consider supporting me to fund my projects:
 ## About Me:
 Hello there My name is Mahadhevha <img width="3%" height="3%" src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="hy_gif"/> 
 
-I usually like to create side-projects for myself on github and occasionally solve problems on leetcode. I usually like to Code, Design, Innovate and Experiment and also really love to take up new challenges and learn new useful programming or important computing skills.
 
 Some information about me:
-- 🔭 Programming using Python, C++, Java doing Web development using React, Angular and
-    leveraging cloud tools such as Firebase, MongoDB and Redis.
+- 🔭 I create side-projects on github and solve problems on leetcode.
 - 🎓 Currently self-learning DSA.
-- 🌱 I’m currently working on contributing and growing my startup [Temavrix](https://github.com/Temavrix).
-- 📖  My hobbies are watching F1, listening to Music, watching Anime, reading manga or manhwa and Drawing.
+- 🌱 I’m currently working on contributing to my startup [Temavrix](https://github.com/Temavrix).
+- 📖  My hobbies are watching F1, listening to Music, watching Anime, reading Manga or Manhwa and Drawing.
 - 📫 Contact me at :  **m.mahadhevh@gmail.com**
 
 Note: I do not have many repositories here because I contribute mainly to [Temavrix](https://github.com/Temavrix) so check out all my work there:  
 
-#### My Notable Repositories:
-##### Please star these Repos it would mean a lot to me :-)
-| App Name |                 App Preview                      |                                                   Description                                                                           |
-|----------|--------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| [Jarvis](https://github.com/Temavrix/JARVIS) | <img width="250" src="https://user-images.githubusercontent.com/69076784/180637424-8d2737c9-ead7-4d65-a8e8-a2c36d9474e8.png"> | Jarvis is a simple Pytorch AI with a GUI capable of chatting and retrieving information or daily news from the internet for it's user using python.|
-| [NexaView](https://github.com/Temavrix/NexaView) | <img width="250" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> | NexaView is an All-in-one Stunning Web-based Dashboard for Weather, News and More for Users using ReactJS and TailwindCSS supported using Redis and Firebase Database. |
-| Patchflow | <img height="90" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" /> | Patchflow is an Issue and Bug tracker made easy for solo developers made using JavaFX coming soon... |
-| Nuvin | Unavailable | Nuvin is comming soon... |
+## My Notable Repositories:
+Please 'star' these Repos it would mean a lot to me :-)
+### [Jarvis](https://github.com/Temavrix/JARVIS)
+
+<img width="150" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab">  
+
+Jarvis is a simple Pytorch AI with a GUI capable of chatting and retrieving information or daily news from the internet for it's user using python.
+
+### [NexaView](https://github.com/Temavrix/NexaView)
+
+<img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
+
+NexaView is an All-in-one Web-based Dashboard for current and forecast of weather, global news headlines, store To-do tasks and more for users. using ReactJS and TailwindCSS supported using Redis for caching data and Firebase as the database to store and retrieve user's information.
+
+### [Patchflow](https://github.com/Temavrix/PatchFlow)
+
+<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
+
+PatchFlow is a desktop-based issue tracking and developer productivity tool built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
 
 
 ------
-<h3 align="left">Activity:</h3>
+## My Activity:
 
 <p align="center">
   <img width="48%" src="https://readme-stats-fabio-vicente.vercel.app/api?username=mahadhevha&count_private=true&show_icons=true&theme=dracula" />
@@ -44,7 +53,7 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 
 ------
 
-## Languages & Frameworks:
+## Languages, Frameworks and Tools:
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" width="40" height="40"//>  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" width="40" height="40"//>
@@ -56,14 +65,11 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
-
-## Tools:
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 <img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-</td></tr></table> 
 
 
 
@@ -84,3 +90,4 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 </p>
 
 -----
+</div>
