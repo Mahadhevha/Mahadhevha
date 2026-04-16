@@ -53,26 +53,6 @@ PatchFlow is a desktop-based issue tracking and developer productivity tool buil
 
 ------
 
-## Languages, Frameworks and Tools:
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/python.svg" width="40" height="40"//>  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/MahaMohan/MahaMohan/1c3e789c38b62487a7a9d5b1e4b89cb4c70442e4/icons/cpp.svg" width="40" height="40"//>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
-
-
-
 ## Contact Me:
 <p align="center">
 <a href="https://www.instagram.com/Mahadhevha/" target="_blank">
