@@ -1,4 +1,3 @@
-
 <div align="center">
   
 # Hi there my name is Mahadhevha👋
@@ -24,24 +23,36 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 
 ## My Notable Repositories:
 Please 'star' these Repos it would mean a lot to me :-)
+
 ### [Jarvis](https://github.com/Temavrix/JARVIS)
 
 <img width="150" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab">  
 
-Jarvis is a simple Pytorch AI with a GUI capable of chatting and retrieving information or daily news from the internet for it's user using python.
+Jarvis is a simple AI chatbot built using Python, PyTorch, and NLTK, featuring a Feed Forward Neural Network with two hidden layers for intelligent conversational responses. It allows users to customize chatbot behavior for their own use cases by modifying the JSON training data, and is wrapped in a Tkinter-based GUI to provide a smoother and more user-friendly experience.
+
+
 
 ### [NexaView](https://github.com/Temavrix/NexaView)
 
 <img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
 
-NexaView is an All-in-one Web-based Dashboard for current and forecast of weather, global news headlines, store To-do tasks and more for users. using ReactJS and TailwindCSS supported using Redis for caching data and Firebase as the database to store and retrieve user's information.
+NexaView is an all-in-one web-based productivity dashboard built using ReactJS, TailwindCSS, Firebase, and Redis, designed to provide users with real-time weather forecasts, global news updates, task management, and personalized daily organization tools while using Redis-powered caching for faster performance and Firebase for secure data storage and retrieval.
+
+
 
 ### [Patchflow](https://github.com/Temavrix/PatchFlow)
 
-<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
+<img height="80" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
 
-PatchFlow is a desktop-based issue tracking and developer productivity tool built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
+PatchFlow is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon in end-May...
 
+
+
+### [F1Immersed]()
+
+<img height="100" alt="Image" src="https://github.com/user-attachments/assets/7698982b-3bf0-4942-8248-fa6dcc16f27a" />
+
+A web application that visualizes Formula 1 telemetry data using FastF1 library, Flask, and React. This project provides interactive insights into driver performance consisting of lap times, speed analysis and track performance analysis of various drivers in the 2026 season. Coming soon in end-June...
 
 ------
 ## My Activity:
