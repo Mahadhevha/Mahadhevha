@@ -40,11 +40,11 @@ NexaView is an all-in-one web-based productivity dashboard built using ReactJS, 
 
 
 
-### [Patchflow](https://github.com/Temavrix/PatchFlow)
+### [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI)
 
 <img height="80" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
 
-PatchFlow is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon in end-May...
+PatchFlow AI is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon on May 16...
 
 
 
@@ -53,7 +53,7 @@ PatchFlow is a desktop-based issue tracking and developer productivity platform 
 <img height="100" alt="Image" src="https://github.com/user-attachments/assets/18df03cf-cd37-4e35-97e9-a94b93a688f7" />
 <img height="100" alt="Image" src="https://github.com/user-attachments/assets/145b01ca-5bc3-471f-8558-418f632ddec8" />
 
-A web application that visualizes Formula 1 telemetry data using FastF1 library, Flask, and React. This project provides interactive insights into driver performance consisting of lap times, speed analysis and track performance analysis of various drivers in the 2026 season. Coming soon in end-June...
+A web application that visualizes Formula 1 telemetry data using FastF1 library, Flask, and React. This project provides interactive insights into driver performance consisting of lap times, speed analysis and track performance analysis of various drivers in the 2026 season. Coming soon on June 20...
 
 ------
 ## My Activity:
