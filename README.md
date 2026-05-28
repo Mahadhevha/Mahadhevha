@@ -1,3 +1,4 @@
+
 <div align="center">
   
 # Hi there my name is Mahadhevha👋
@@ -46,7 +47,7 @@ An issue tracking and developer productivity platform built using JavaFX, SQLite
 
 ### [OptiScan](https://github.com/Temavrix/OptiScan)
 
-<img width="150" alt="Image" src="https://github.com/user-attachments/assets/407bb3c3-82a6-470a-88ab-b0192e5d23c1" />
+<img height="80" alt="Optiscan" src="https://github.com/user-attachments/assets/7ce16189-6957-4a43-88f5-f0a17998aff2" />
 
 A WiFi optimization and heatmap visualization tool built with C++, OpenCV and Dear ImGui. It records WiFi RSSI measurements from different rooms, generates a live signal heatmap and recommends an optimal modem/router placement using weighted centroid optimization. Coming soon on June 1...
 
