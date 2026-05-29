@@ -20,45 +20,13 @@ Note: I do not have many repositories here because I contribute mainly to [Temav
 
 ## My Notable Repositories:
 Please 'star' these Repos it would mean a lot to me :-)
-
-### [Jarvis](https://github.com/Temavrix/JARVIS)
-
-<img width="125" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab">  
-
-A simple AI chatbot built using Python, PyTorch and NLTK with a Feed Forward Neural Network for intelligent conversational responses and allow users to customize behavior for their own use case by modifying the JSON training data.
-
-
-
-### [NexaView](https://github.com/Temavrix/NexaView)
-
-<img width="140" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="140" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="140" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
-
-A web-based dashboard built using ReactJS, TailwindCSS designed to provide real-time weather forecasts, global news, task management and personalized tools while using Redis-powered caching for fast performance and Firebase for secure data storage.
-
-
-
-### [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI)
-
-<img height="70" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="70" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="70" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
-
-An issue tracking and developer productivity platform built using JavaFX, SQLite with AI-powered integrations. Designed to streamline developer workflows, tracking GitHub issues, organizing project tasks, and enabling team collaboration for faster and more efficient software development.
-
-
-
-### [OptiScan](https://github.com/Temavrix/OptiScan)
-
-<img height="80" alt="Optiscan" src="https://github.com/user-attachments/assets/7ce16189-6957-4a43-88f5-f0a17998aff2" />
-
-A WiFi optimization and heatmap visualization tool built with C++, OpenCV and Dear ImGui. It records WiFi RSSI measurements from different rooms, generates a live signal heatmap and recommends an optimal modem/router placement using weighted centroid optimization. Coming soon on June 1...
-
-
-
-### [F1Immersed](https://github.com/Mahadhevha/F1Immersed)
-
-<img height="100" alt="Image" src="https://github.com/user-attachments/assets/18df03cf-cd37-4e35-97e9-a94b93a688f7" />
-<img height="100" alt="Image" src="https://github.com/user-attachments/assets/145b01ca-5bc3-471f-8558-418f632ddec8" />
-
-A web application that visualizes Formula 1 telemetry data using FastF1 library, Flask, and React. Providing interactive insights into driver performance consisting of lap times, speed analysis and track performance analysis of various drivers in the 2026 season. Coming soon on June 20...
+| Preview                                          | Description                                                                                                                         |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|<img width="180" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab"> | [Jarvis](https://github.com/Temavrix/JARVIS) : AI chatbot built with a Feed Forward Neural Network for intelligent conversational responses and allow customized behavior for their own use case.|
+|<img width="180" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="180" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="180" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> | [NexaView](https://github.com/Temavrix/NexaView) : A web-based dashboard built to provide real-time weather forecasts, global news, task management and personalized tools using Redis-powered caching|
+|<img height="95" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="95" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="95" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" /> | [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI) : An issue tracking and developer productivity platform with AI-powered integrations. For streamlining workflows, tracking GitHub issues, organizing project tasks, and enabling team collaboration for faster and more efficient software development.
+|<img height="105" alt="Optiscan" src="https://github.com/user-attachments/assets/7ce16189-6957-4a43-88f5-f0a17998aff2" /> | [OptiScan](https://github.com/Temavrix/OptiScan) : A WiFi optimization and heatmap visualization tool to record RSSI from different rooms and generates a live signal heatmap to recommend an optimal modem/router placement.
+|<img height="100" alt="Image" src="https://github.com/user-attachments/assets/18df03cf-cd37-4e35-97e9-a94b93a688f7" /> <img height="100" alt="Image" src="https://github.com/user-attachments/assets/145b01ca-5bc3-471f-8558-418f632ddec8" /> | [F1Immersed](https://github.com/Mahadhevha/F1Immersed) : A web application that visualizes F1 telemetry. Providing interactive insights into drivers performance such lap times, speed analysis and track performance analysis in the 2026 season.|
 
 ------
 ## My Activity:
